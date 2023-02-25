@@ -1,0 +1,23 @@
+.article {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgb(76, 176, 96);
+    border: 10px solid brown;
+}
+.heading1 {
+    font-size: 40px;
+    color: azure;
+    font-weight: 400;
+    text-align: center;
+}
+.heading2 {
+    font-size: 20px;
+    color: aqua;
+    text-align: center;
+}
+.text {
+    border: 10px solid rgb(35, 32, 32);
+    padding: 10px;
+    color: blueviolet;
+}
